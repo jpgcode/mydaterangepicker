@@ -657,6 +657,7 @@ export var MyDateRangePicker = (function () {
         'dateRangeChanged': [{ type: Output },],
         'inputFieldChanged': [{ type: Output },],
         'calendarViewChanged': [{ type: Output },],
+        'calendarCleared': [{ type: Output },],
         'dateSelected': [{ type: Output },],
     };
     return MyDateRangePicker;
