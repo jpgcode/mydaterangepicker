@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mydaterangepicker",
+        "scope": null,
+        "escapedName": "mydaterangepicker",
+        "name": "mydaterangepicker",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jgranado1/Desktop/Work/Prodigious/davita"
+    ]
+  ],
+  "_from": "mydaterangepicker@latest",
+  "_id": "mydaterangepicker@1.4.1",
+  "_inCache": true,
+  "_location": "/mydaterangepicker",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/mydaterangepicker-1.4.1.tgz_1488520296379_0.8346906527876854"
+  },
+  "_npmUser": {
+    "name": "kekeh",
+    "email": "kea789@outlook.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mydaterangepicker",
+    "scope": null,
+    "escapedName": "mydaterangepicker",
+    "name": "mydaterangepicker",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mydaterangepicker/-/mydaterangepicker-1.4.1.tgz",
+  "_shasum": "4f4e70edd107e25ae0303e1748a66422ccd3ec88",
+  "_shrinkwrap": null,
+  "_spec": "mydaterangepicker",
+  "_where": "/Users/jgranado1/Desktop/Work/Prodigious/davita",
+  "author": {
+    "name": "kekeh"
+  },
+  "bugs": {
+    "url": "https://github.com/kekeh/mydaterangepicker/issues"
+  },
+  "dependencies": {},
+  "description": "Angular2 date range picker",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4f4e70edd107e25ae0303e1748a66422ccd3ec88",
+    "tarball": "https://registry.npmjs.org/mydaterangepicker/-/mydaterangepicker-1.4.1.tgz"
+  },
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "LICENSE",
+    "FONT-LICENSE",
+    "package.json",
+    "README.md",
+    "dist",
+    "bundles"
+  ],
+  "homepage": "https://github.com/kekeh/mydaterangepicker#readme",
+  "keywords": [
+    "Angular2",
+    "date range picker"
+  ],
+  "license": "MIT",
+  "main": "bundles/mydaterangepicker.umd.js",
+  "maintainers": [
+    {
+      "name": "kekeh",
+      "email": "kea@live.fi"
+    }
+  ],
+  "module": "index.js",
+  "name": "mydaterangepicker",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekeh/mydaterangepicker.git"
+  },
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "1.4.1"
+}
